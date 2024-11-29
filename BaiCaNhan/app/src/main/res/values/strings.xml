@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiCaNhan</string>
+    <string name="menu_icon">Menu Icon</string>
+    <string name="hello_alex">Hello, Alex!</string>
+</resources>
